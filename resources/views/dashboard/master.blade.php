@@ -57,7 +57,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="{{ asset('js/toast.script.js') }}"></script>
-   
+    <script src="{{asset('dasds.js')}}"></script>
     <script src="{{ asset('assets/js/reloj.script.js') }}"></script>
     <script>
         window.addEventListener('dispararToast', ({
