@@ -23,7 +23,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "sweetalert2": "^11.3.6",
+        "sweetalert2": "^11.22.4",
         "toastr": "^2.1.4"
     }
 }
